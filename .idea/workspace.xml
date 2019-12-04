@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f52d2d6-4317-4a62-9b29-a203e4125256" name="Default Changelist" comment="" />
+    <list default="true" id="1f52d2d6-4317-4a62-9b29-a203e4125256" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Planet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Planet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SolarSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SolarSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PlanetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PlanetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SolarSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SolarSystemTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +31,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SolarSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="811">
-              <caret line="62" column="63" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
+            <state relative-caret-position="218">
+              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
               <folding>
                 <element signature="e#272#273#0" expanded="true" />
                 <element signature="e#299#300#0" expanded="true" />
@@ -41,16 +48,17 @@
                 <element signature="e#686#687#0" expanded="true" />
                 <element signature="e#1292#1293#0" expanded="true" />
                 <element signature="e#1342#1343#0" expanded="true" />
+                <element signature="e#1466#1474#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SolarSystemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="189">
+              <caret line="65" column="62" lean-forward="true" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#439#440#0" expanded="true" />
@@ -63,6 +71,8 @@
                 <element signature="e#1147#1148#0" expanded="true" />
                 <element signature="e#1236#1237#0" expanded="true" />
                 <element signature="e#1266#1267#0" expanded="true" />
+                <element signature="e#1384#1385#0" expanded="true" />
+                <element signature="e#1413#1414#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,14 +99,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PlanetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="243">
+              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#295#296#0" expanded="true" />
                 <element signature="e#316#317#0" expanded="true" />
                 <element signature="e#436#437#0" expanded="true" />
                 <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#841#842#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Planet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+            <state relative-caret-position="46">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
               <folding>
                 <element signature="e#259#260#0" expanded="true" />
                 <element signature="e#286#287#0" expanded="true" />
@@ -124,21 +136,26 @@
                 <element signature="e#871#872#0" expanded="true" />
                 <element signature="e#975#976#0" expanded="true" />
                 <element signature="e#1007#1008#0" expanded="true" />
+                <element signature="e#1106#1107#0" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1189#1190#0" expanded="true" />
+                <element signature="e#1231#1232#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Moon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="345">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
               <folding>
                 <element signature="e#138#139#0" expanded="true" />
                 <element signature="e#165#166#0" expanded="true" />
                 <element signature="e#205#206#0" expanded="true" />
                 <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
                 <element signature="e#350#351#0" expanded="true" />
                 <element signature="e#387#388#0" expanded="true" />
                 <element signature="e#419#420#0" expanded="true" />
@@ -156,6 +173,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -163,8 +183,8 @@
         <option value="$PROJECT_DIR$/src/test/java/MoonTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Planet.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlanetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SolarSystem.java" />
         <option value="$PROJECT_DIR$/src/test/java/SolarSystemTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SolarSystem.java" />
       </list>
     </option>
   </component>
@@ -181,6 +201,7 @@
     <option name="width" value="1301" />
     <option name="height" value="734" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -233,6 +254,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -254,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in planet model">
+  <component name="RunManager" selected="JUnit.SolarSystemTest.canGetNumberOfHabitablePlanets">
     <configuration name="All in planet model" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="planet model" />
       <option name="PACKAGE_NAME" value="" />
@@ -263,21 +285,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlanetTest.canGetMassOfMoons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PlanetTest.canCheckIfHabitable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="planet model" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PlanetTest" />
-      <option name="METHOD_NAME" value="canGetMassOfMoons" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SolarSystemTest.canGetMassOfMoons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="planet model" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SolarSystemTest" />
-      <option name="METHOD_NAME" value="canGetMassOfMoons" />
+      <option name="METHOD_NAME" value="canCheckIfHabitable" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -303,13 +315,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolarSystemTest.canGetNumberOfHabitablePlanets" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="planet model" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SolarSystemTest" />
+      <option name="METHOD_NAME" value="canGetNumberOfHabitablePlanets" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolarSystemTest.canGetNumberOfHabitablePlanets" />
+        <item itemvalue="JUnit.PlanetTest.canCheckIfHabitable" />
         <item itemvalue="JUnit.All in planet model" />
         <item itemvalue="JUnit.SolarSystemTest.canGetMassOfSolarSystem" />
         <item itemvalue="JUnit.SolarSystemTest.canGetMassOfPlanets" />
-        <item itemvalue="JUnit.SolarSystemTest.canGetMassOfMoons" />
-        <item itemvalue="JUnit.PlanetTest.canGetMassOfMoons" />
       </list>
     </recent_temporary>
   </component>
@@ -327,12 +349,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SolarSystemTest_canAddPlanet - 2019.12.04 at 09h 38m 22s.xml">
-      <configuration name="SolarSystemTest.canAddPlanet" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SolarSystemTest_canGetNumberOfMoons - 2019.12.04 at 09h 39m 18s.xml">
-      <configuration name="SolarSystemTest.canGetNumberOfMoons" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SolarSystemTest_canGetMassOfMoons - 2019.12.04 at 09h 40m 16s.xml">
       <configuration name="SolarSystemTest.canGetMassOfMoons" configurationId="JUnit" />
     </history-entry>
@@ -357,6 +373,12 @@
     <history-entry file="SolarSystemTest_canGetMassOfSolarSystem - 2019.12.04 at 09h 53m 36s.xml">
       <configuration name="SolarSystemTest.canGetMassOfSolarSystem" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_planet_model - 2019.12.04 at 09h 54m 26s.xml">
+      <configuration name="All in planet model" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlanetTest_canCheckIfHabitable - 2019.12.04 at 10h 04m 58s.xml">
+      <configuration name="PlanetTest.canCheckIfHabitable" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="61" width="1301" height="734" extended-state="0" />
@@ -367,11 +389,11 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32866043" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -394,88 +416,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/PlanetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Planet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
-          <folding>
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#871#872#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
-            <element signature="e#1007#1008#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SolarSystemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#1117#1118#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-            <element signature="e#1266#1267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SolarSystem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="62" column="63" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
-          <folding>
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#446#447#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MoonTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -494,16 +434,108 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Moon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="345">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
           <folding>
             <element signature="e#138#139#0" expanded="true" />
             <element signature="e#165#166#0" expanded="true" />
             <element signature="e#205#206#0" expanded="true" />
             <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
             <element signature="e#350#351#0" expanded="true" />
             <element signature="e#387#388#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1189#1190#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SolarSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+          <folding>
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#1292#1293#0" expanded="true" />
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1466#1474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlanetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#841#842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SolarSystemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="65" column="62" lean-forward="true" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1384#1385#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
           </folding>
         </state>
       </provider>

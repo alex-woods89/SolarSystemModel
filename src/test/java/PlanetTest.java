@@ -10,7 +10,7 @@ public class PlanetTest {
 
     @Before
     public void before(){
-        earth = new Planet("Earth", 1000);
+        earth = new Planet("Earth", 1000, true);
         moon = new Moon("The Moon", 100);
     }
 
@@ -34,6 +34,11 @@ public class PlanetTest {
     public void canGetMassOfMoons(){
         earth.addMoon(moon);
         assertEquals(100, earth.getMassOfMoons());
+    }
+
+    @Test
+    public void canCheckIfHabitable(){
+        assertEquals(true, earth.isHabitable());
     }
 
 

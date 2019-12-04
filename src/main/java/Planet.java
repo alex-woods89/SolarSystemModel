@@ -5,12 +5,14 @@ public class Planet {
     private String name;
     private int mass;
     private ArrayList<Moon> moons;
+    private boolean habitable;
 
 
-    public Planet(String name, int mass){
+    public Planet(String name, int mass, boolean habitable){
         this.name = name;
         this.moons = new ArrayList<Moon>();
         this.mass = mass;
+        this.habitable = habitable;
     }
 
     public String getName() {
@@ -51,5 +53,13 @@ public class Planet {
 
     public void setMass(int mass){
         this.mass = mass;
+    }
+
+    public boolean isHabitable() {
+        return habitable;
+    }
+
+    public void setHabitable(boolean habitable) {
+        this.habitable = habitable;
     }
 }

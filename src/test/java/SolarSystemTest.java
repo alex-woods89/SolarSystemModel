@@ -8,12 +8,14 @@ public class SolarSystemTest {
     private SolarSystem solarSystem;
     private Planet planet;
     private Moon moon;
-    
+
+
+
 
     @Before
     public void before(){
         moon = new Moon("The Moon", 100);
-        planet = new Planet("Earth", 1000);
+        planet = new Planet("Earth", 1000, true);
         solarSystem = new SolarSystem("Milky Way");
 
         planet.addMoon(moon);
@@ -58,6 +60,15 @@ public class SolarSystemTest {
     public void canGetMassOfSolarSystem(){
         assertEquals(1100, solarSystem.getMassOfSolarSystem());
     }
+
+    @Test
+    public void canGetNumberOfHabitablePlanets(){
+        Planet saturn = new Planet("saturn", 1000, false);
+        solarSystem.addPlanet(saturn);
+        assertEquals(1, solarSystem.getNumberOfHabitablePlanets());
+    }
+
+
 
 
 

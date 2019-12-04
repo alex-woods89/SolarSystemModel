@@ -62,4 +62,15 @@ public class SolarSystem {
     public int getMassOfSolarSystem(){
         return this.getMassOfMoons() + this.getMassOfPlanets();
     }
+
+    public int getNumberOfHabitablePlanets() {
+        ArrayList<Planet> habitablePlanets = new ArrayList<Planet>();
+        for(Planet planet : this.planets) {
+            if(planet.isHabitable() == true){
+                habitablePlanets.add(planet);
+        }
+
+        }
+        return habitablePlanets.size();
+    }
 }
